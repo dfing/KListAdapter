@@ -1,0 +1,6 @@
+framework module Pods_KListAdapterUITests {
+  umbrella header "Pods-KListAdapterUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_KListAdapter {
+  umbrella header "Pods-KListAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
